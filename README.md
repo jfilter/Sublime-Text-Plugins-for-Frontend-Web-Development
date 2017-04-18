@@ -5,22 +5,25 @@ Here is a collection of plugins I use for my daily frontend web development work
 ## Plugins
 
 ### Administrative
-These plugins are kind of 'meta' because they are not concerned with writing code but still essential.
+These plugins are kind of 'meta' because they are not concerned with writing code.
+
 * [Package Control](https://packagecontrol.io/packages/Package%20Control): The essential package manager.
 * [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile): A better way to create new files. For instance, it automatically creates a folder when needed.
 * [SideBarEnhacements](https://packagecontrol.io/packages/SideBarEnhancements): Adds features such as renaming to the sidebar.
-* [Terminal](https://packagecontrol.io/packages/Terminal): Easily open the Terminal with current working directory set to the directory of the open file.
-* [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files. Even though I use git on almost every project, I still don't commit every change. It gives a better feeling to have the possibility to go back to every change.
+* [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Add icons to the files in the sidebar.
 * [TodoReview](https://packagecontrol.io/packages/TodoReview): Scans files for 'TODO's and more.
 * [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitably when you use a lot of plugins.
-
+* [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
 
 ### General
 Usefull for all languaes.
+
 * [All Complete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already builtin highlighting.
 * [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays  changes in the gutter (left to the line numbers).
-* [DashDoc](https://packagecontrol.io/packages/DashDoc): Open curent selection in [Dash](https://kapeli.com/dash) on hotkey.
+* [DashDoc](https://packagecontrol.io/packages/DashDoc): Open curent selection in [Dash](https://kapeli.com/dash) on hot key.
+* [Terminal](https://packagecontrol.io/packages/Terminal):Open Terminal with current working directory set to the directory of the open file on hot key.
+* [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files. Even though I use git on almost every project, I still don't commit every change. It gives a better feeling to have the possibility to go back to every change.
 
 ### Linter
 Linters help you to spot mistakes in your code early on. In order to make them work properly, check the instructions in the packages. For some, you have to install other tools.
@@ -38,11 +41,16 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions): Autocomplete and function definitions.
 * [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
 * [Babel](https://packagecontrol.io/packages/Babel): Syntax definitions for ES6 JavaScript with React JSX extensions.
+* [TypeScript](https://packagecontrol.io/packages/TypeScript)
 * [Console Wrap](https://packagecontrol.io/packages/Console%20Wrap): Fast way to log to console.
 
 ### HTML & CSS
+* [Sass](https://packagecontrol.io/packages/Sass): Sass is extending CSS
 * [Emmet](https://packagecontrol.io/packages/Emmet): Allows you to write HTML very fast. You have to learn their way though.
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
+
+### Other
+* [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
 
 ## Remove Duplicates from Auto-completion
