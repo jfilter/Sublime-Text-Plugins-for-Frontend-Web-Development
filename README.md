@@ -20,6 +20,7 @@ Usefull for all languaes.
 
 * [All Complete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already builtin highlighting.
+* [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ` `, `|` or your own RegEx.
 * [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays  changes in the gutter (left to the line numbers).
 * [DashDoc](https://packagecontrol.io/packages/DashDoc): Open curent selection in [Dash](https://kapeli.com/dash) on hot key.
 * [Terminal](https://packagecontrol.io/packages/Terminal):Open Terminal with current working directory set to the directory of the open file on hot key.
@@ -33,6 +34,8 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 * [SublimeLinter-CSSlint](https://packagecontrol.io/packages/SublimeLinter-csslint)
 * [SublimeLinter-contrib-SCSS-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 * [SublimeLinter-contrib-ESLint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
+* [SublimeLinter-flow](https://packagecontrol.io/packages/SublimeLinter-flow)
+* [SublimeLinter-contrib-elm-make](https://packagecontrol.io/packages/SublimeLinter-contrib-elm-make)
 * [SublimeLinter-JSON](https://packagecontrol.io/packages/SublimeLinter-json)
 
 
@@ -43,14 +46,19 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 * [Babel](https://packagecontrol.io/packages/Babel): Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [TypeScript](https://packagecontrol.io/packages/TypeScript)
 * [Console Wrap](https://packagecontrol.io/packages/Console%20Wrap): Fast way to log to console.
+* [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support)
+
 
 ### HTML & CSS
 * [Sass](https://packagecontrol.io/packages/Sass): Sass is extending CSS
+* [SassSolutions](https://packagecontrol.io/packages/SassSolution): Auto-complete variables/mixins from your 'settings.scss' file.
+* [CSS3](https://packagecontrol.io/packages/CSS3): Replaces the built-in CSS support with a more up-to-date information. Includes [cssnext](http://cssnext.io) support. Follow the instructions to reduce misbehaviour with other plugins.
 * [Emmet](https://packagecontrol.io/packages/Emmet): Allows you to write HTML very fast. You have to learn their way though.
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 
 ### Other
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
+* [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
 
 
 ## Remove Duplicates from Auto-completion
