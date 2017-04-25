@@ -4,6 +4,16 @@ Sublime is great and for many still the best text editor available. But out of t
 
 If you know plugins that should be on this list, just open an issue. 😉
 
+### Table of Contents
+
+1. [Administrative](#administrative)
+2. [General](#general)
+3. [Javascript](#javascript)
+4. [HTML & CSS](#html-&-css)
+5. [Linter](#linter)
+6. [Other](#other)
+
+
 ## Plugins
 
 ### 🗃 Administrative 
