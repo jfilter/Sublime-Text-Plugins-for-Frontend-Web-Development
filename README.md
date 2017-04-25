@@ -1,8 +1,8 @@
 # Sublime Text 3 Plugins for Frontend Web Development
 
-Sublime is great and for many still the best text editior avaible. But out of the box, it lacks some features that modern competitors have already built-in. Plugins help to stay ahead but it's a hassel to keep up with all of them. In order to help you, I compiled a list of plugins I use for my daily frontend web development. 
+Sublime is great and for many still the best text editor available. But out of the box, it lacks some features that modern competitors have already built-in. Plugins help to stay ahead but it's a hassle to keep up with all of them. In order to help you, I compiled a list of plugins I use for my daily frontend web development. 
 
-If you know a plugins that should be on this list, just open an issue. 😉
+If you know plugins that should be on this list, just open an issue. 😉
 
 ## Plugins
 
@@ -18,14 +18,14 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
 
 ### ⌨️ General 
-Usefull for all languaes.
+Useful for all languages.
 
 * [All Complete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
-* [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already builtin highlighting.
+* [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already built-in highlighting.
 * [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ` `, `|` or your own RegEx.
-* [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays  changes in the gutter (left to the line numbers).
-* [DashDoc](https://packagecontrol.io/packages/DashDoc): Open curent selection in [Dash](https://kapeli.com/dash) on hot key.
-* [Terminal](https://packagecontrol.io/packages/Terminal):Open Terminal with current working directory set to the directory of the open file on hot key.
+* [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays changes in the gutter (left to the line numbers).
+* [DashDoc](https://packagecontrol.io/packages/DashDoc): Open current selection in [Dash](https://kapeli.com/dash) on a hot key.
+* [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
 * [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files. Even though I use git on almost every project, I still don't commit every change. It gives a better feeling to have the possibility to go back to every change.
 
 ### ☕️ Javascript
@@ -64,43 +64,42 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 ## Settings
 ```
 {
-	// Disallowes approving auto-complete suggestions with 'enter' to prevent ambiguous situations.
-	// You have to get used to it but also Sublime strongly recommends it.
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_delay": 0,
-	// Allow auto-complete suggestion within snippets.
-	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
-	"create_window_at_startup": false,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Input Sans Narrow",
-	"font_size": 15,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"CSS",
-		"Vintage"
-	],
-	// Highlights the indentation of the current scope.
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"indent_to_bracket": true,
-	"rulers":
-	[
-		80
-	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+    // Disallows approving auto-complete suggestions with 'enter' to prevent ambiguous situations.
+    // You have to get used to it but also Sublime strongly recommends it.
+    "auto_complete_commit_on_tab": true,
+    "auto_complete_delay": 0,
+    // Allow auto-complete suggestion within snippets.
+    "auto_complete_with_fields": true,
+    "color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+    "create_window_at_startup": false,
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "font_face": "Input Sans Narrow",
+    "font_size": 15,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "CSS",
+        "Vintage"
+    ],
+    // Highlights the indentation of the current scope.
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "indent_to_bracket": true,
+    "rulers":
+    [
+        80
+    ],
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true
 }
 
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
 
