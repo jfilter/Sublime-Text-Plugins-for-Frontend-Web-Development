@@ -9,13 +9,14 @@ If you know plugins that should be on this list, just open an issue. 😉
 1. [Administrative](#administrative)
 2. [General](#general)
 3. [Javascript](#javascript)
-4. [HTML & CSS](#html-&-css)
+4. [HTML & CSS](#htmlcss)
 5. [Linter](#linter)
 6. [Other](#other)
-
+7. [Settings](#settings)
 
 ## Plugins
 
+<a name="administrative"/>
 ### 🗃 Administrative 
 These plugins are kind of 'meta' because they are not concerned with writing code.
 
@@ -27,6 +28,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitably when you use a lot of plugins.
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
 
+<a name="general"/>
 ### ⌨️ General 
 Useful for all languages.
 
@@ -39,6 +41,7 @@ Useful for all languages.
 * [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
 * [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files. Even though I use git on almost every project, I still don't commit every change. It gives a better feeling to have the possibility to go back to every change.
 
+<a name="javascript"/>
 ### ☕️ Javascript
 * [Tern for Sublime](https://packagecontrol.io/packages/tern_for_sublime): Static Javascript code analyzer with auto-completion, function argument hints, 'go to definition' and more. The installation and configuration can be a little bit tricky but it's worth it. Choose Tern over [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) (unmaintained) and [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) (buggy). 
 * [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
@@ -47,7 +50,7 @@ Useful for all languages.
 * [TypeScript](https://packagecontrol.io/packages/TypeScript)
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support)
 
-
+<a name="htmlcss"/>
 ### 🎨 HTML & CSS 
 * [Sass](https://packagecontrol.io/packages/Sass): Sass is a preprocessor extending CSS and this plugins adds the language support.
 * [SassSolutions](https://packagecontrol.io/packages/SassSolution): Auto-complete variables/mixins from your 'settings.scss' file.
@@ -55,6 +58,7 @@ Useful for all languages.
 * [Emmet](https://packagecontrol.io/packages/Emmet): Allows you to write HTML very fast. You have to learn their way though.
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 
+<a name="linter"/>
 ### 🔥 Linter 
 Linters help you to spot mistakes in your code early on. In order to make them work properly, check the instructions in the packages. For some, you have to install additional tools.
 
@@ -67,11 +71,12 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 * [SublimeLinter-contrib-elm-make](https://packagecontrol.io/packages/SublimeLinter-contrib-elm-make)
 * [SublimeLinter-JSON](https://packagecontrol.io/packages/SublimeLinter-json)
 
+<a name="other"/>
 ### 👥 Other
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
 
-
+<a name="settings"/>
 ## Settings
 ```
 {
