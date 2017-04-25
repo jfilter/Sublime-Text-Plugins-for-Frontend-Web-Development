@@ -75,35 +75,41 @@ You have to repeat this every time you update Sublime Text.
 ## Settings
 ```
 {
-    "auto_complete_commit_on_tab": true,
-    "auto_complete_delay": 0,
-    "color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
-    "create_window_at_startup": false,
-    "draw_white_space": "all",
-    "ensure_newline_at_eof_on_save": true,
-    "font_face": "Input Sans Narrow",
-    "font_size": 15,
-    "highlight_line": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "indent_guide_options":
-    [
-        "draw_normal",
-        "draw_active"
-    ],
-    "indent_to_bracket": true,
-    "rulers":
-    [
-        80
-    ],
-    "spell_check": true,
-    "tab_size": 2,
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_wrap": true
+	// Disallowes approving auto-complete suggestions with 'enter' to prevent ambiguous situations.
+	// You have to get used to it but also Sublime strongly recommends it.
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 0,
+	// Allow auto-complete suggestion within snippets.
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+	"create_window_at_startup": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Input Sans Narrow",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	// Highlights the indentation of the current scope.
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
+
 ```
 
 
