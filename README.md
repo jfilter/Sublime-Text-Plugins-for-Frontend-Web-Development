@@ -38,13 +38,13 @@ Useful for all languages.
 
 * [All Complete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already built-in highlighting.
+* [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
 * [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ` `, `|` or your own RegEx.
 * [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays changes in the gutter (left to the line numbers).
 * [Git](https://packagecontrol.io/packages/Git): Includes some git commands into Sublime.
-* [GitSavvy](https://packagecontrol.io/packages/GitSavvy): Full git and GitHub integration with Sublime Text 3.
+* [GitSavvy](https://packagecontrol.io/packages/GitSavvy): Full git and GitHub integration.
 * [Gitignore](https://packagecontrol.io/packages/Gitignore): Fetches templates for the .gitignore provided by [Github](https://github.com/github/gitignore).
 * [DashDoc](https://packagecontrol.io/packages/DashDoc): Open current selection in [Dash](https://kapeli.com/dash) on a hot key.
-* [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
 * [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files. Even though I use git on almost every project, I still don't commit every change. It gives a better feeling to have the possibility to go back to every change.
 
 <a name="javascript"/>
