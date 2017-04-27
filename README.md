@@ -1,4 +1,7 @@
-![](preview.gif?raw=true)
+
+<div align="center">
+  <img src="preview.gif" alt="Previews Sublime in use with some of the used plugins.">
+</div>
 
 # Sublime Text 3 Plugins for Frontend Web Development
 
