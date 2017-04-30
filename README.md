@@ -37,6 +37,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile): A better way to create new files. For instance, it automatically creates a folder when needed.
 * [SideBarEnhacements](https://packagecontrol.io/packages/SideBarEnhancements): Adds features such as renaming to the sidebar.
 * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Add icons to the files in the sidebar.
+* [ProjectManage](https://packagecontrol.io/packages/ProjectManager): Organizing project files by putting them in a central location.
 * [TodoReview](https://packagecontrol.io/packages/TodoReview): Scans files for `TODO`s and more.
 * [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitably when you use a lot of plugins.
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
