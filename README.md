@@ -86,7 +86,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 * [SublimeLinter-HTML-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy)
-* [SublimeLinter-CSSlint](https://packagecontrol.io/packages/SublimeLinter-csslint)
+* [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint): For CSS. Choose stylelint over [SublimeLinter-CSSlint](https://packagecontrol.io/packages/SublimeLinter-csslint).
 * [SublimeLinter-contrib-SCSS-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 * [SublimeLinter-contrib-ESLint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
 * [SublimeLinter-flow](https://packagecontrol.io/packages/SublimeLinter-flow)
