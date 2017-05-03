@@ -42,6 +42,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitably when you use a lot of plugins.
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
 * [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings): Keep settings in sync via Github-Gist.
+* [SFTP](https://packagecontrol.io/packages/SFTP): Transfer files to a server via FTPS and SFTP. The plugin is like Sublime [Nagware](https://en.wikipedia.org/wiki/Shareware#Nagware). You can use it for free but get a reminder to buy a licence.
 
 
 <a name="general"/>
