@@ -41,7 +41,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [TodoReview](https://packagecontrol.io/packages/TodoReview): Scans files for `TODO`s and more.
 * [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitably when you use a lot of plugins.
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
-* [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings): Keep settings in sync via Github-Gist.
+* [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings): Keep Sublime settings in sync via Github-Gist.
 * [SFTP](https://packagecontrol.io/packages/SFTP): Transfer files to a server via FTPS and SFTP. The plugin is like Sublime [Nagware](https://en.wikipedia.org/wiki/Shareware#Nagware). You can use it for free but get a reminder to buy a licence.
 
 
@@ -54,20 +54,20 @@ Useful for all languages.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already built-in highlighting.
 * [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
 * [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ` `, `|` or your own RegEx.
-* [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays changes in the gutter (left to the line numbers).
-* [Git](https://packagecontrol.io/packages/Git): Includes some git commands into Sublime.
+* [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays modified lines in the gutter (left to the line numbers).
+* [Git](https://packagecontrol.io/packages/Git): Includes some git commands.
 * [GitSavvy](https://packagecontrol.io/packages/GitSavvy): Full git and GitHub integration.
 * [Gitignore](https://packagecontrol.io/packages/Gitignore): Fetches templates for the .gitignore provided by [Github](https://github.com/github/gitignore).
+* [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files.
 * [DashDoc](https://packagecontrol.io/packages/DashDoc): Open current selection in [Dash](https://kapeli.com/dash) on a hot key.
-* [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files. Even though I use git on almost every project, I still don't commit every change. It gives a better feeling to have the possibility to go back to every change.
 
 <a name="javascript"/>
 
 ### ☕️ Javascript
 * [Tern for Sublime](https://packagecontrol.io/packages/tern_for_sublime): Static Javascript code analyzer with auto-completion, function argument hints, 'go to definition' and more. The installation and configuration can be a little bit tricky but it's worth it. Choose Tern over [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) (unmaintained) and [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) (buggy). 
 * [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
-* [Console Wrap](https://packagecontrol.io/packages/Console%20Wrap): Fast way to log to console.
 * [JsPrettier](https://packagecontrol.io/packages/JsPrettier): Integration of [Prettier](https://github.com/prettier/prettier), the opinionated JavaScript formatter.
+* [Console Wrap](https://packagecontrol.io/packages/Console%20Wrap): Fast way to log to console.
 * [Babel](https://packagecontrol.io/packages/Babel): Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [TypeScript](https://packagecontrol.io/packages/TypeScript)
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support)
@@ -76,8 +76,8 @@ Useful for all languages.
 
 ### 🎨 HTML & CSS 
 * [Sass](https://packagecontrol.io/packages/Sass): Sass is a preprocessor extending CSS and this plugins adds the language support.
-* [SassSolutions](https://packagecontrol.io/packages/SassSolution): Auto-complete variables/mixins from your 'settings.scss' file.
-* [CSS3](https://packagecontrol.io/packages/CSS3): Replaces the built-in CSS support with a more up-to-date information. Includes [cssnext](http://cssnext.io) support. Follow the instructions to reduce misbehaviour with other plugins.
+* [SassSolutions](https://packagecontrol.io/packages/SassSolution): Auto-complete for variables and mixins from your 'settings.scss' file.
+* [CSS3](https://packagecontrol.io/packages/CSS3): Replaces the built-in CSS support with a more up-to-date one. Includes [cssnext](http://cssnext.io) support. Follow the instructions to make it work properly.
 * [Emmet](https://packagecontrol.io/packages/Emmet): Allows you to write HTML very fast. You have to learn their way though.
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 
