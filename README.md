@@ -113,8 +113,8 @@ Linters help you to spot mistakes in your code early on. In order to make them w
     "auto_complete_delay": 0,
     // Allow auto-complete suggestion within snippets.
     "auto_complete_with_fields": true,
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
-	 "create_window_at_startup": false,
+    "color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+    "create_window_at_startup": false,
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
     "font_face": "Input Sans Narrow",
