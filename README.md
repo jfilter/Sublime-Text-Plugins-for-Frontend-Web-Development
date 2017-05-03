@@ -100,6 +100,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 ### 👥 Other
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
+* [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme): The built-in Solarized Theme does not support recent syntax such as ES2015. This one does but it's not the only one. Find a color scheme you please. 😉
 
 <a name="settings"/>
 
@@ -112,8 +113,8 @@ Linters help you to spot mistakes in your code early on. In order to make them w
     "auto_complete_delay": 0,
     // Allow auto-complete suggestion within snippets.
     "auto_complete_with_fields": true,
-    "color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
-    "create_window_at_startup": false,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	 "create_window_at_startup": false,
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
     "font_face": "Input Sans Narrow",
