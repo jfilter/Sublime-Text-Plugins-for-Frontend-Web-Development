@@ -11,7 +11,7 @@ If you know plugins that should be on this list, just open an issue. 😉
 
 **What other people said about this list:**
 
-"Useful." – [Smashing Magazin](https://twitter.com/smashingmag/status/857784722373701632)
+"Useful." – [Smashing Magazine](https://twitter.com/smashingmag/status/857784722373701632)
 
 "✅" – [Umar Hansa](https://twitter.com/umaar/status/855385340105904128)
 
