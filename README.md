@@ -39,7 +39,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Add icons to the files in the sidebar.
 * [ProjectManager](https://packagecontrol.io/packages/ProjectManager): Organizing project files by putting them in a central location.
 * [TodoReview](https://packagecontrol.io/packages/TodoReview): Scans files for `TODO`s and more.
-* [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitably when you use a lot of plugins.
+* [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts): Key conflicts are inevitable when you use a lot of plugins.
 * [Editor Config](https://packagecontrol.io/packages/EditorConfig): Maintain consistent coding styles between different editors.
 * [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings): Keep Sublime settings in sync via Github-Gist.
 * [Package Syncing](https://packagecontrol.io/packages/Package%20Syncing): Keep all you settings, packages etc in sync via Dropbox and co
@@ -51,7 +51,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 ### ⌨️ General 
 Useful for all languages.
 
-* [All Complete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
+* [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already built-in highlighting.
 * [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
 * [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ` `, `|` or your own RegEx.
