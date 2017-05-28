@@ -61,6 +61,9 @@ Useful for all languages.
 * [Gitignore](https://packagecontrol.io/packages/Gitignore): Fetches templates for the .gitignore provided by [Github](https://github.com/github/gitignore).
 * [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files.
 * [DashDoc](https://packagecontrol.io/packages/DashDoc): Open current selection in [Dash](https://kapeli.com/dash) on a hot key.
+* [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry): Extend the power of multiple selections in Sublime Text 2/3. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
+* [Super Calculator](https://packagecontrol.io/packages/Super%20Calculator): Sublime Text plugin for performing quick inline calculations with a simple keypress (Alt+C).
+* [Open-Include](https://github.com/titoBouzout/Open-Include): Will open file paths found under the cursor with ALT+D.
 
 <a name="javascript"/>
 
@@ -72,6 +75,7 @@ Useful for all languages.
 * [Babel](https://packagecontrol.io/packages/Babel): Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [TypeScript](https://packagecontrol.io/packages/TypeScript)
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support)
+* [Console Wrap](https://packagecontrol.io/packages/Console%20Wrap): This plugin helps you to work easily with log statements, For example hide/remove all the console logs.
 
 <a name="htmlcss"/>
 
@@ -102,6 +106,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
 * [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme): The built-in Solarized Theme does not support recent syntax such as ES2015. This one does but it's not the only one. Find a color scheme you please. 😉
+* [InstaGoogling](https://packagecontrol.io/packages/InstaGoogling): Instagoogling is the fastest and most efficient way to Google from Sublime Text.
 
 <a name="settings"/>
 
