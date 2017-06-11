@@ -17,20 +17,23 @@ If you know plugins that should be on this list, just open an issue. 😉
 
 
 ### Table of Contents
+1. [Plugins](#plugins)
+	1. [Administrative](#administrative)
+	2. [General](#general)
+	3. [Javascript](#javascript)
+	4. [HTML & CSS](#htmlcss)
+	5. [Linter](#linter)
+	6. [Other](#other)
+2. [Themes](#themes)
+3. [Settings](#settings)
 
-1. [Administrative](#administrative)
-2. [General](#general)
-3. [Javascript](#javascript)
-4. [HTML & CSS](#htmlcss)
-5. [Linter](#linter)
-6. [Other](#other)
-7. [Settings](#settings)
+<a name="plugins"/>
 
 ## Plugins
 
 <a name="administrative"/>
 
-### 🗃 Administrative 
+### 🗃 1. Administrative 
 These plugins are kind of 'meta' because they are not concerned with writing code.
 
 * [Package Control](https://packagecontrol.io/packages/Package%20Control): This package enables you to install other packages. Since build 3124, you can install it within Sublime via <em>Tools</em> ➡ <em>Install Package Control</em>.
@@ -48,7 +51,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 
 <a name="general"/>
 
-### ⌨️ General 
+### ⌨️ 2. General 
 Useful for all languages.
 
 * [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
@@ -66,7 +69,7 @@ Useful for all languages.
 
 <a name="javascript"/>
 
-### ☕️ Javascript
+### ☕️ 3. Javascript
 * [Tern for Sublime](https://packagecontrol.io/packages/tern_for_sublime): Static Javascript code analyzer with auto-completion, function argument hints, 'go to definition' and more. The installation and configuration can be a little bit tricky but it's worth it. Choose Tern over [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) (unmaintained) and [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) (buggy). 
 * [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
 * [JsPrettier](https://packagecontrol.io/packages/JsPrettier): Integration of [Prettier](https://github.com/prettier/prettier), the opinionated JavaScript formatter.
@@ -77,7 +80,7 @@ Useful for all languages.
 
 <a name="htmlcss"/>
 
-### 🎨 HTML & CSS 
+### 🎨 4. HTML & CSS 
 * [Sass](https://packagecontrol.io/packages/Sass): Sass is a preprocessor extending CSS and this plugins adds the language support.
 * [SassSolutions](https://packagecontrol.io/packages/SassSolution): Auto-complete for variables and mixins from your 'settings.scss' file.
 * [CSS3](https://packagecontrol.io/packages/CSS3): Replaces the built-in CSS support with a more up-to-date one. Includes [cssnext](http://cssnext.io) support. Follow the instructions to make it work properly.
@@ -86,7 +89,7 @@ Useful for all languages.
 
 <a name="linter"/>
 
-### 🔥 Linter 
+### 🔥 5. Linter 
 Linters help you to spot mistakes in your code early on. In order to make them work properly, check the instructions in the packages. For some, you have to install additional tools.
 
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
@@ -100,9 +103,14 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 
 <a name="other"/>
 
-### 👥 Other
+### 👥 6. Other
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
+
+<a name="themes"/>
+
+## Themes
+
 * [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme): The built-in Solarized Theme does not support recent syntax such as ES2015. This one does but it's not the only one. Find a color scheme you please. 😉
 
 <a name="settings"/>
