@@ -61,6 +61,8 @@ Useful for all languages.
 * [Gitignore](https://packagecontrol.io/packages/Gitignore): Fetches templates for the .gitignore provided by [Github](https://github.com/github/gitignore).
 * [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files.
 * [DashDoc](https://packagecontrol.io/packages/DashDoc): Open current selection in [Dash](https://kapeli.com/dash) on a hot key.
+* [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry): Extend the power of multiple selections with features such as incremental numbers and date ranges.
+
 
 <a name="javascript"/>
 
