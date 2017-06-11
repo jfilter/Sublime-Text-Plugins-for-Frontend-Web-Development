@@ -112,9 +112,16 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 
 ## 2. Themes
 
-* [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme): The built-in Solarized Theme does not support recent syntax such as ES2015. This one does but it's not the only one. Find a color scheme you please. 😉
+The built-in themes do not support recent syntax such as ES2015. In the following, I list some I have test and do it.
 
+* [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme): Replaced the outdated built-in one
+* The two theme installed by [Babel](https://packagecontrol.io/packages/Babel): Monokai Phoenix and Next 
+* [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 <a name="settings"/>
+* [ayu](https://packagecontrol.io/packages/ayu)
+* [LightScript](https://packagecontrol.io/packages/LightScript)
+* [Marterial Theme](https://packagecontrol.io/packages/Material%20Theme)
+* [Boxy Theme](https://packagecontrol.io/packages/Boxy%20Theme)
 
 ## 3. Settings
 ```
@@ -150,6 +157,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
     ],
     "tab_size": 2,
     "translate_tabs_to_spaces": true,
+    // NB: the following could lead to a lot of (unnecessary) changes in other's peoples files
     "trim_trailing_white_space_on_save": true,
     "word_wrap": true
 }
