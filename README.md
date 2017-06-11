@@ -17,15 +17,15 @@ If you know plugins that should be on this list, just open an issue. 😉
 
 
 ### Table of Contents
-1. [Plugins](#plugins)
+* [Plugins](#plugins)
 	1. [Administrative](#administrative)
 	2. [General](#general)
 	3. [Javascript](#javascript)
 	4. [HTML & CSS](#htmlcss)
 	5. [Linter](#linter)
 	6. [Other](#other)
-2. [Themes](#themes)
-3. [Settings](#settings)
+* [Themes](#themes)
+* [Settings](#settings)
 
 <a name="plugins"/>
 
