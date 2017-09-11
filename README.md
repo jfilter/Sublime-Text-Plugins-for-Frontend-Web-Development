@@ -119,7 +119,7 @@ The built-in themes do not support recent syntax such as ES2015. In the followin
 * [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 * [ayu](https://packagecontrol.io/packages/ayu)
 * [LightScript](https://packagecontrol.io/packages/LightScript)
-* [Marterial Theme](https://packagecontrol.io/packages/Material%20Theme)
+* [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 * [Boxy Theme](https://packagecontrol.io/packages/Boxy%20Theme)
 
 <a name="settings"/>
