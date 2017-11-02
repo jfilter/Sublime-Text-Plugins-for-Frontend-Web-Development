@@ -39,7 +39,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 
 * [Package Control](https://packagecontrol.io/packages/Package%20Control): This package enables you to install other packages. Since build 3124, you can install it within Sublime via <em>Tools</em> ➡ <em>Install Package Control</em>.
 * [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile): A better way to create new files. For instance, it automatically creates a folder when needed.
-* [SideBarEnhacements](https://packagecontrol.io/packages/SideBarEnhancements): Adds features such as renaming to the sidebar.
+* [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements): Adds features such as renaming to the sidebar.
 * [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Add icons to the files in the sidebar.
 * [ProjectManager](https://packagecontrol.io/packages/ProjectManager): Organizing project files by putting them in a central location.
 * [TodoReview](https://packagecontrol.io/packages/TodoReview): Scans files for `TODO`s and more.
