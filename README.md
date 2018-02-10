@@ -1,11 +1,10 @@
-
 <div align="center">
   <img src="preview.gif" alt="Previews Sublime in use with some of the used plugins.">
 </div>
 
 # Sublime Text 3 Plugins for Frontend Web Development
 
-Sublime is great and for many still the best text editor available. But out of the box, it lacks some features that modern competitors have already built-in. Plugins help to stay ahead but it's a hassle to keep up with all of them. In order to help you, I compiled a list of plugins I use for my daily frontend web development. 
+Sublime is great and for many still the best text editor available. But out of the box, it lacks some features that modern competitors have already built-in. Plugins help to stay ahead but it's a hassle to keep up with all of them. In order to help you, I compiled a list of plugins I use for my daily frontend web development.
 
 If you know plugins that should be on this list, just open an issue. 😉
 
@@ -16,15 +15,15 @@ This list was shared by (among others):
 * [FrontendFocus](http://frontendfocus.co/issues/291) / [FrontendDaily](https://twitter.com/FrontEndDaily/status/868137687546568704)
 * [Speckyboy](https://twitter.com/speckyboy/status/864145924053970945)
 
-
 ### Table of Contents
+
 1. [Plugins](#plugins)
-	1. [Administrative](#administrative)
-	2. [General](#general)
-	3. [Javascript](#javascript)
-	4. [HTML & CSS](#htmlcss)
-	5. [Linter](#linter)
-	6. [Other](#other)
+   1. [Administrative](#administrative)
+   2. [General](#general)
+   3. [Javascript](#javascript)
+   4. [HTML & CSS](#htmlcss)
+   5. [Linter](#linter)
+   6. [Other](#other)
 2. [Themes](#themes)
 3. [Settings](#settings)
 
@@ -34,7 +33,8 @@ This list was shared by (among others):
 
 <a name="administrative"/>
 
-### 🗃 i. Administrative 
+### 🗃 i. Administrative
+
 These plugins are kind of 'meta' because they are not concerned with writing code.
 
 * [Package Control](https://packagecontrol.io/packages/Package%20Control): This package enables you to install other packages. Since build 3124, you can install it within Sublime via <em>Tools</em> ➡ <em>Install Package Control</em>.
@@ -49,16 +49,16 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [Package Syncing](https://packagecontrol.io/packages/Package%20Syncing): Keep all you settings, packages etc in sync via Dropbox and co
 * [SFTP](https://packagecontrol.io/packages/SFTP): Transfer files to a server via FTPS and SFTP. The plugin is like Sublime [Nagware](https://en.wikipedia.org/wiki/Shareware#Nagware). You can use it for free but get a reminder to buy a licence.
 
-
 <a name="general"/>
 
-### ⌨️ ii. General 
+### ⌨️ ii. General
+
 Useful for all languages.
 
 * [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete): Indexes all open files for auto-completion.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Improves the already built-in highlighting.
 * [Terminal](https://packagecontrol.io/packages/Terminal): Open Terminal with current working directory set to the directory of the open file on a hot key.
-* [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ` `, `|` or your own RegEx.
+* [AlignTab](https://packagecontrol.io/packages/AlignTab): Align your code by `:`, `=`, `=>`, `%`, ``, `|` or your own RegEx.
 * [GitGutter](https://packagecontrol.io/packages/GitGutter): Displays modified lines in the gutter (left to the line numbers).
 * [Git](https://packagecontrol.io/packages/Git): Includes some git commands.
 * [GitSavvy](https://packagecontrol.io/packages/GitSavvy): Full git and GitHub integration.
@@ -66,7 +66,6 @@ Useful for all languages.
 * [Local History](https://packagecontrol.io/packages/Local%20History): Keep a local history of your files.
 * [DashDoc](https://packagecontrol.io/packages/DashDoc): Open current selection in [Dash](https://kapeli.com/dash) on a hot key.
 * [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry): Extend the power of multiple selections with features such as incremental numbers and date ranges.
-
 
 <a name="javascript"/>
 
@@ -85,7 +84,8 @@ Useful for all languages.
 
 <a name="htmlcss"/>
 
-### 🎨 iv. HTML & CSS 
+### 🎨 iv. HTML & CSS
+
 * [Sass](https://packagecontrol.io/packages/Sass): Sass is a preprocessor extending CSS and this plugins adds the language support.
 * [SassSolutions](https://packagecontrol.io/packages/SassSolution): Auto-complete for variables and mixins from your 'settings.scss' file.
 * [CSS3](https://packagecontrol.io/packages/CSS3): Replaces the built-in CSS support with a more up-to-date one. Includes [cssnext](http://cssnext.io) support. Follow the instructions to make it work properly.
@@ -94,7 +94,8 @@ Useful for all languages.
 
 <a name="linter"/>
 
-### 🔥 v. Linter 
+### 🔥 v. Linter
+
 Linters help you to spot mistakes in your code early on. In order to make them work properly, check the instructions in the packages. For some, you have to install additional tools.
 
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
@@ -109,6 +110,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 <a name="other"/>
 
 ### 👥 vi. Other
+
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
 
@@ -119,7 +121,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 The built-in themes do not support recent syntax such as ES2015. In the following, I list some I have test and do it.
 
 * [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme): Replaced the outdated built-in one
-* The two theme installed by [Babel](https://packagecontrol.io/packages/Babel): Monokai Phoenix and Next 
+* The two theme installed by [Babel](https://packagecontrol.io/packages/Babel): Monokai Phoenix and Next
 * [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 * [ayu](https://packagecontrol.io/packages/ayu)
 * [LightScript](https://packagecontrol.io/packages/LightScript)
@@ -129,6 +131,7 @@ The built-in themes do not support recent syntax such as ES2015. In the followin
 <a name="settings"/>
 
 ## 3. Settings
+
 ```
 {
     // Disallows approving auto-complete suggestions with 'enter' to prevent ambiguous situations.
@@ -166,8 +169,6 @@ The built-in themes do not support recent syntax such as ES2015. In the followin
     "trim_trailing_white_space_on_save": true,
     "word_wrap": true
 }
-
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
