@@ -48,6 +48,7 @@ These plugins are kind of 'meta' because they are not concerned with writing cod
 * [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings): Keep Sublime settings in sync via Github-Gist.
 * [Package Syncing](https://packagecontrol.io/packages/Package%20Syncing): Keep all you settings, packages etc in sync via Dropbox and co
 * [SFTP](https://packagecontrol.io/packages/SFTP): Transfer files to a server via FTPS and SFTP. The plugin is like Sublime [Nagware](https://en.wikipedia.org/wiki/Shareware#Nagware). You can use it for free but get a reminder to buy a licence.
+* [TerminalView](https://packagecontrol.io/packages/TerminalView): A Linux/macOS plugin for Sublime Text 3 that allows for terminals inside editor views.
 
 <a name="general"/>
 
