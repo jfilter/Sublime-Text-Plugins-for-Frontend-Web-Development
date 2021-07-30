@@ -114,6 +114,7 @@ Linters help you to spot mistakes in your code early on. In order to make them w
 
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 * [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV)
+* [Live Server](https://packagecontrol.io/packages/LiveServer)
 
 <a name="themes"/>
 
